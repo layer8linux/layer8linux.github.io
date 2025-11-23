@@ -2,6 +2,7 @@ title: "Layer8 Linux"
 description: "A beginner-friendly Linux distribution with up-to-date software on an LTS kernel."
 theme: null
 markdown: kramdown
+baseurl: ""
 
 # Navigation links
 nav:
