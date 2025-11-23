@@ -1,3 +1,19 @@
-theme: jekyll-theme-minimal
-title: Layer8 Linux
-description: A new and friendly Linux distro from the boys at Layer8 Services
+title: "Layer8 Linux"
+description: "A beginner-friendly Linux distribution with up-to-date software on an LTS kernel."
+theme: null
+markdown: kramdown
+
+# Navigation links
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Download
+    link: /download
+  - name: Documentation
+    link: /documentation
+  - name: Contribute
+    link: /contribute
+  - name: Community
+    link: /community
